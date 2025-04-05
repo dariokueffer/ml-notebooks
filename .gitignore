@@ -1,3 +1,4 @@
-data/
-**/data/
+01_Transformer/02_encoder-only/data/
 .DS_Store
+02_Kaggle/house-prices/data/
+02_Kaggle/spaceship-titanic/data/
