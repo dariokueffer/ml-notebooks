@@ -1,0 +1,4 @@
+pandas
+num2words
+sentencepiece
+torch
