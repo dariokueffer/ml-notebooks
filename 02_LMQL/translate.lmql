@@ -1,6 +1,0 @@
-query
-"Translate 'Hello world' to French: {translation}"
-from
-MODEL("mistral/mistral-7B-instruct")
-
-export OPENAI_API_KEY="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"
